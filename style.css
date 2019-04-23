@@ -1,0 +1,13 @@
+.inputWithLabel{
+	margin: 10px;
+	display: flex;
+	justify-content: space-between;
+	width: 500px;
+	background-color: red;
+	text-align: right;
+
+
+}
+h3 {
+	text-align: right;
+}
