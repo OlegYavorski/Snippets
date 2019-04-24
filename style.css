@@ -9,5 +9,15 @@
 
 }
 h3 {
-	text-align: right;
+	/* text-align: right; */
+}
+
+.inputWithLabel h3{
+
+	width: 50%;
+}
+
+.inputWithLabel input{
+
+	width: 100%;
 }
